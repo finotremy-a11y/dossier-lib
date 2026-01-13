@@ -17,7 +17,6 @@ def print_diamond(n)
   end
 end
 
-# MAIN
 n = ask_size
 puts "Voici la pyramide :"
 print_diamond(n)
